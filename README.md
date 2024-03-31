@@ -28,7 +28,7 @@
   5. Link Bootstrap CSS
       * Paste the copied Bootstrap CSS file into the webapp folder of the project.
       * Link the Bootstrap CSS file in your HTML files using the <link> tag.
-    
+         
 # License:
      This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
